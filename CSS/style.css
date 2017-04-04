@@ -1,0 +1,157 @@
+body
+{
+  background-color: #37473d;
+  width: 1147px;
+
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+.title p
+{
+  font-size: 48px;
+  font-family: Monaco;
+  color:#ffffff;
+  width: 500px;
+  padding-top: 90px;
+  padding-left: 30px;
+  margin: 0px;
+  text-align:center;
+}
+h4,h6
+{
+  font-size: 18px;
+  font-family: Monaco;
+}
+.container
+{
+  position: relative;
+}
+.title
+{
+  padding-left:270.5px;
+  float: left;
+}
+.header
+{
+  height: 513px;
+  background-image: url('../images/top-background.png');
+}
+.icon-menu
+{
+    padding-top: 80px;
+    margin-right: 100px;
+    float: right;
+}
+.icon-menu a
+{
+    margin-left: 30px;
+}
+.nav-button
+{
+  margin-left: 100px;
+}
+.nav-button li
+{
+  list-style: none;
+  margin-right: 10px;
+  margin-top: 30px;
+  float: left;
+}
+.article-text1 h4
+{
+  margin:0px;
+  padding-top: 30px;
+  padding-right: 20px;
+  height: 235px;
+  width: 509px;
+  float: right;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: lighter;
+
+}
+.article-text2 h4
+{
+  margin:0px;
+  padding: 30px 50px 30px 50px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: lighter;
+
+}
+.article
+{
+  height: 827px;
+  margin:0px;
+}
+.article-text1
+{
+  background-image: url('../images/article-background.png');
+  height: 327px;
+}
+.article-text2
+{
+  background-image: url('../images/article-background2.png');
+  height: 500px
+}
+.footer
+{
+  height: 314px;
+  background-image: url('../images/footer-background.png');
+}
+
+.input-text
+{
+  padding-top: 20px;
+  padding-left: 40px;
+  width: 660px;
+  float: left;
+}
+.input-text textarea
+{
+  color: #929191;
+  background-color: #4b4b4b;
+  border-color: #979797;
+  padding-top: 20px;
+  padding-left: 30px;
+}
+.input-button
+{
+  width: 120px;
+  margin: 0px;
+  float: left;
+  padding-left:540px;
+}
+.massage
+{
+    padding-top: 60px;
+    padding-bottom: 15px;
+}
+.massage h6
+{
+    margin:0px;
+    color: #ffffff;
+    padding-bottom: 10px;
+    font-weight: lighter;
+}
+#massage-letter
+{
+    padding-right: 20px;
+}
+#massage-pointer
+{
+    padding-right: 25px;
+}
+.icon
+{
+  padding-top: 50px;
+  float:right;
+}
+.icon a img
+{
+  padding-right: 30px
+}
+.clear
+{
+  clear: both;
+}
